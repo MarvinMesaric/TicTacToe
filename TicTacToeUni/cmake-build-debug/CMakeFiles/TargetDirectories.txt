@@ -1,0 +1,3 @@
+C:/Users/dabbl/CLionProjects/TicTacToeUni/cmake-build-debug/CMakeFiles/TicTacToeUni.dir
+C:/Users/dabbl/CLionProjects/TicTacToeUni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dabbl/CLionProjects/TicTacToeUni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
