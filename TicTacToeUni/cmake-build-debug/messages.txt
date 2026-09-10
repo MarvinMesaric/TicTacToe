@@ -1,0 +1,11 @@
+#Message 1
+Waehlen sie eine der Folgenden optionen aus:
+1 Spielen  | 2 Steuerung | 3 Highscore | 4 Spiel Laden | 5 Spiel beenden
+#Message 2
+Die Steuerung funktioniert per Eibgabe. Geben Sie eine Zahl zwischen 1 und 9 ein.
+#Message 3
+Fuer den Solo Modus fuehren Sie den ersten Zug aus, dann der Computer und dann wieder   Sie.
+#Message 4
+Im Mehrspieler Modus spielen sie gegen eine andere Person, hierbei fuehrt Person 1 ( O ) den ersten Zug aus und danach  folgt Spieler 2 ( X ). Danach Wechseln sich die Spieler nach jedem Zug ab bis das spiel beendet ist oder eine Person    gewonnen hat.
+#Message 5
+Geben Sie fuer Ihren Zug eine Zahl zwischen 1 und 9 ein. Tippen sie 10 um das Spiel zu speichern.

@@ -61,14 +61,20 @@ build CMakeFiles/TicTacToeUni.dir/gui.c.obj: C_COMPILER__TicTacToeUni_unscanned_
   OBJECT_DIR = CMakeFiles\TicTacToeUni.dir
   OBJECT_FILE_DIR = CMakeFiles\TicTacToeUni.dir
 
-build CMakeFiles/TicTacToeUni.dir/highscoreList.c.obj: C_COMPILER__TicTacToeUni_unscanned_Debug C$:/Users/dabbl/CLionProjects/TicTacToeUni/highscoreList.c || cmake_object_order_depends_target_TicTacToeUni
-  DEP_FILE = CMakeFiles\TicTacToeUni.dir\highscoreList.c.obj.d
+build CMakeFiles/TicTacToeUni.dir/fileIO.c.obj: C_COMPILER__TicTacToeUni_unscanned_Debug C$:/Users/dabbl/CLionProjects/TicTacToeUni/fileIO.c || cmake_object_order_depends_target_TicTacToeUni
+  DEP_FILE = CMakeFiles\TicTacToeUni.dir\fileIO.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\TicTacToeUni.dir
   OBJECT_FILE_DIR = CMakeFiles\TicTacToeUni.dir
 
 build CMakeFiles/TicTacToeUni.dir/winCheck.c.obj: C_COMPILER__TicTacToeUni_unscanned_Debug C$:/Users/dabbl/CLionProjects/TicTacToeUni/winCheck.c || cmake_object_order_depends_target_TicTacToeUni
   DEP_FILE = CMakeFiles\TicTacToeUni.dir\winCheck.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\TicTacToeUni.dir
+  OBJECT_FILE_DIR = CMakeFiles\TicTacToeUni.dir
+
+build CMakeFiles/TicTacToeUni.dir/tttGame.c.obj: C_COMPILER__TicTacToeUni_unscanned_Debug C$:/Users/dabbl/CLionProjects/TicTacToeUni/tttGame.c || cmake_object_order_depends_target_TicTacToeUni
+  DEP_FILE = CMakeFiles\TicTacToeUni.dir\tttGame.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\TicTacToeUni.dir
   OBJECT_FILE_DIR = CMakeFiles\TicTacToeUni.dir
@@ -81,7 +87,7 @@ build CMakeFiles/TicTacToeUni.dir/winCheck.c.obj: C_COMPILER__TicTacToeUni_unsca
 #############################################
 # Link the executable TicTacToeUni.exe
 
-build TicTacToeUni.exe: C_EXECUTABLE_LINKER__TicTacToeUni_Debug CMakeFiles/TicTacToeUni.dir/main.c.obj CMakeFiles/TicTacToeUni.dir/gui.c.obj CMakeFiles/TicTacToeUni.dir/highscoreList.c.obj CMakeFiles/TicTacToeUni.dir/winCheck.c.obj
+build TicTacToeUni.exe: C_EXECUTABLE_LINKER__TicTacToeUni_Debug CMakeFiles/TicTacToeUni.dir/main.c.obj CMakeFiles/TicTacToeUni.dir/gui.c.obj CMakeFiles/TicTacToeUni.dir/fileIO.c.obj CMakeFiles/TicTacToeUni.dir/winCheck.c.obj CMakeFiles/TicTacToeUni.dir/tttGame.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\TicTacToeUni.dir

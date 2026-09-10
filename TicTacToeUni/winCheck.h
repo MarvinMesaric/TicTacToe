@@ -1,5 +1,5 @@
 //
-// Created by dabbl on 21.12.2024.
+// Created by Marvin on 21.12.2024.
 //
 
 #ifndef WINCHECK_H
